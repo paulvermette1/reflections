@@ -1,0 +1,5 @@
+When I initialize a repository, Git creates a new folder called .git
+Doing this prepares the folder to start accepting git commands an has the framework to start logging commits
+
+The staging area is a holding area that lets you build the full picture of a working copy of your code. This allows you to commit all the files to the repository in one commit (not one file per comit). The working directory is simply the directory from which you can add files into the staging directory.
+

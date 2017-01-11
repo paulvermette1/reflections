@@ -1,0 +1,14 @@
+Finding differences between two pieces of code is extremely time consuming and error prone.  Using a utility that can do this for you will result in faster coding with better quality.
+
+If I could see all the old versions, I might sometimes save myself a lot of time when the changes I make don't work and I need to go back to a safe working copy of my code. If I don't have to manage all the different versions by saving under many file names, this would save time and save my code when I forgot to manually branch something.
+
+I can sometimes forget to commit so this will be a problem, but automatically saving would lead to nonsense versions of code; none of which work and need code enhancements since the auto-saves would almost always come part way through a logical feature change.
+
+Applications like Google Docs don't assume that multiple file work together in concert, so a change in one doesn't affect the others. Code however is an orchestration of many files working togther.
+
+By using Git Log you can see the list of commits made. Then you can view the differences between two commits by using git diff. This will show you specifically the changes made over time without getting clouded by all the other code that hasn't changed.
+
+Using Git will let you be more bold in making changes, since you can always revert back to an earlier working version.
+
+I'd like to use git for managing my source files.
+
