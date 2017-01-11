@@ -9,4 +9,5 @@ By using the staging area you can collect all the files related to a logical cha
 
  Diagrams make it infinitely easier to keep your branches and dead heads straight.
 
+ Merging two branches together essentially makes them into one branch in a sense; combining all the commits into one history.
  
