@@ -3,3 +3,10 @@ Doing this prepares the folder to start accepting git commands an has the framew
 
 The staging area is a holding area that lets you build the full picture of a working copy of your code. This allows you to commit all the files to the repository in one commit (not one file per comit). The working directory is simply the directory from which you can add files into the staging directory.
 
+By using the staging area you can collect all the files related to a logical change and commit them together as a cohesive unit.
+
+ Branches would help if you need to keep a version ready to deploy with bug fixes while you work on another major new addition. If there is an urgent bug to release, you can check out the master, make the changes and check back in and release. Then you can continue to working on your major change.
+
+ Diagrams make it infinitely easier to keep your branches and dead heads straight.
+
+ 
