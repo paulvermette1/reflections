@@ -11,3 +11,6 @@ By using the staging area you can collect all the files related to a logical cha
 
  Merging two branches together essentially makes them into one branch in a sense; combining all the commits into one history.
  
+ Automatic merging is great 90% of the time when two developers are working on two separate parts of the code. So for the most part automatic merging is a good thing. Manual merging all the time would be tedious.
+
+ 
